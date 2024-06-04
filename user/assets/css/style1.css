@@ -1,0 +1,60 @@
+ul li{list-style: none;}
+
+.track-rcol{
+    width: 900px;
+    border: 1px solid #e6e6e6;
+    padding: 10px;
+}
+
+.track-list{
+    margin: 20px;
+    padding-left: 5px;
+    position: relative;
+}
+
+.track-list li{
+
+    position: relative;
+    padding: 9px 0 0 25px;
+    line-height: 18px;
+    border-left: 1px solid #d9d9d9;
+    color:  #8c8c8c;
+
+}
+
+.track-list li.first{
+
+    color: #39ac39;
+    padding-top: 0;
+    border-left-color: #fff;
+
+}
+
+.track-list li.first .node-icon{
+    background-position:0 -72px;
+}
+
+.track-list li .time{
+    margin-right: 20px;
+    position: relative;
+    top: 4px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.track-list li .txt{
+    max-width: 600px;
+    position: relative;
+    top: 4px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.track-list li.first .time{
+    margin-right: 20px;
+}
+
+.track-list li.first .txt{
+    max-width: 600px;
+}

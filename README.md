@@ -29,7 +29,7 @@ MySQL: Data storage for user accounts, products, and orders.
 - View order receipt.
 ---
 ## Demo Video
-[![Online Grocery]]((https://youtu.be/MOeJp_FPXE4?si=uMRTV1GYSuI1zMKd))
+[![Online Grocery](https://img.youtube.com/vi/MOeJp_FPXE4/0.jpg)](https://youtu.be/MOeJp_FPXE4?si=apAFIKTloDTsIRbT)
 
 ---
 Thanks!

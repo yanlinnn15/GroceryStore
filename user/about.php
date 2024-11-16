@@ -84,53 +84,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            
-                        </div>
-                        <div class="team-member">
-                            <div class="row">
-                                <div class="col-sm-12 border-custom">
-                                    <span></span>
-                                </div>
-                            </div>
-                            <h2 class="custom_blog_title center" style="color: #8eb359;">
-                                Fresh Grocers Important Persons
-                            </h2>
-                            <div class="team-member-slider nav-center owl-slick"
-                                 data-slick='{"autoplay":false, "autoplaySpeed":1000, "arrows":true, "dots":false, "infinite":true, "speed":800, "rows":1}'
-                                 data-responsive='[{"breakpoint":"0","settings":{"slidesToShow":1}},{"breakpoint":"480","settings":{"slidesToShow":1}},{"breakpoint":"767","settings":{"slidesToShow":2}},{"breakpoint":"991","settings":{"slidesToShow":3}},{"breakpoint":"1199","settings":{"slidesToShow":3}},{"breakpoint":"2000","settings":{"slidesToShow":3}}]'>
-                                <div class="gnash-team-member">
-                                    <div class="team-member-item">
-                                        <!--<div class="member_avatar">
-                                            <img src="assets/images/YL1.jpg" alt="img">
-                                        </div>-->
-                                        <h5 class="member_name">Tan Yan Lin</h5>
-                                        <div class="member_position">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gnash-team-member">
-                                    <div class="team-member-item">
-                                        <!--<div class="member_avatar">
-                                            <img src="assets/images/CJY.jpg" alt="img">
-                                        </div>-->
-                                        <h5 class="member_name">Chiang Joe Yee</h5>
-                                        <div class="member_position">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gnash-team-member">
-                                    <div class="team-member-item">
-                                        <!--<div class="member_avatar">
-                                            <img src="assets/images/TY.jpg" alt="img">
-                                        </div>-->
-                                        <h5 class="member_name">Ng Tze Yang</h5>
-                                        <div class="member_position">
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                            </div>
+                            </div>  
                         </div>
                     </div>
                 </div>
